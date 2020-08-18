@@ -1,0 +1,16 @@
+.sh{
+    font-size: 18px;
+}
+
+.btn{
+    color: white;
+    background-color: skyblue;
+    border: 1px solid blue;
+    font-weight: bold;
+    margin-left: 8px;
+    padding: 5px;
+}
+.inpC{
+    padding: 5px;
+    font-weight: bold;
+}

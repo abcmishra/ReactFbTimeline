@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+.item{
+    flex: 1 1 0;
+}
+
+.lCnt{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
